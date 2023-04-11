@@ -15,5 +15,4 @@ Finally,  for path forward, there are other important factors such as subject’
 Another recent data source (yahoo.com and CDC) show that the death rate increased exponentially post COVID, more than doubling versus 2017 timeframe.  Therefore, impact of COVID as is needed to determine if the spike was temporary or something has changed fundamentally and permanently. 
 
 
-An expanded exploratory work will help in establishing the key factors responsible for driving drug abuse.  Social organizations and governmental authorities can then focus on those factors to  optimize efforts for curbing deaths via drug abuse.  
-![image](https://user-images.githubusercontent.com/123911160/231269363-46997988-2ce1-4cbb-b55e-7e54b14d8cd3.png)
+An expanded exploratory work will help in establishing the key factors responsible for driving drug abuse.  Social organizations and governmental authorities can then focus on those factors to  optimize efforts for curbing deaths via drug abuse.
